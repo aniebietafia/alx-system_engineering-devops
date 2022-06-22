@@ -1,0 +1,2 @@
+#!/bin/bash
+$(0x00-shell_basics $$(realpath "${BASH_SOURCE:-$0}") /n
