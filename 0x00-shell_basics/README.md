@@ -13,3 +13,5 @@ Task 11: Script that lists all files in current directory and the parent of the 
 Task 12: Script that prints the type of the file named iamafile.
 Task 13: Creates a symbolic link to bin/ls, named __ls__.
 Task 14: Copies HTML files from current working directory to the parent of the working directory.
+Task 100: Moves files beginning with uppercase letters to /tmp/u directory.
+Task 101:Deletes all files in the current working directory that end with the character ~.
