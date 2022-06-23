@@ -12,3 +12,7 @@ Task 10: Sets the mode of the file hello the same as olleh's mode.
 Task 11: Adds execute permission to all subdirectories of the current directory for the owner.
 Task 12: Creates a directory called my_dir with permissions 751 in the working directory.
 Task 13: Changes the group owner to school for the file hello.
+Task 14: Changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
+Task 15: Changes the owner and the goup owner of _hello to vincent and staff respectively.
+Task 16: Changes the owner of the file hello to betty only if it is owned by the user guillaume.
+Task 17: Plays the StarWars IV episode in the terminal.
