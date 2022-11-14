@@ -24,4 +24,4 @@
 ## More Info
 ### Shell Check
 <p>Shellcheck is a tool that will help you write proper Bash scripts. It will make recommendations on your syntax and semantics and provide advice on edge cases that you might not have thought about. <strong>Shellcheck</strong> is your friend! <strong>All your Bash scripts must pass</strong> Shellcheck <strong>without any error or you will not get any points on the task.</strong></p>
-<p>Shellcheck is available on the school’s computers. If you want to use it on your own computer, here is how to <a href="https://github.com/koalaman/shellcheck#installing">install it</a>.</p>
+<p>Shellcheck is available on the school’s computers. If you want to use it on your own computer, here is how to <a href="https://github.com/koalaman/shellcheck#installing" target="_blank">install it</a>.</p>
