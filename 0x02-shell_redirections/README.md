@@ -1,6 +1,26 @@
-Task 0: Script that prints Hello, World to the Standard Output.
-Task 1: script that displays a confused smiley.
-Task 2: Display the content of the /etc/passwd file.
+# Shell Redirections
+<table>
+<tr>
+<th>Project</th>
+<th>Description</th>
+</tr>
+
+<tr>
+<td>Task 0</td>
+<td>Script that prints Hello, World to the Standard Output.</td>
+</tr>
+
+<tr>
+<td>Task 1</td>
+<td>Script that displays a confused smiley.</td>
+</tr>
+
+<tr>
+<td>Task 2</td>
+<td>Display the content of the /etc/passwd file.</td>
+</tr>
+</table>
+
 Task 3: Display the content of /etc/passwd and /etc/hosts.
 Task 4: Display the last 10 lines of /etc/passwd.
 Task 5: Display the first 10 lines of /etc/passwd.
