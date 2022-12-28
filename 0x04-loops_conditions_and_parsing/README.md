@@ -1,27 +1,27 @@
 # Loops, conditions and parsing
 
-## Learning Objectives
-### General
-- How to create SSH keys
-- What is the advantage of using #!/usr/bin/env bash over #!/bin/bash
-- How to use while, until and for loops
-- How to use if, else, elif and case condition statements
-- How to use the cut command
-- What are files and other comparison operators, and how to use them.
+Project done during **Full Stack Software Engineering studies** at **Holberton School**. It aims to learn about loops (`while`, `until` and `for`), condition statements (`if`, `else`, `elif` and `case`), shebangs and how to create SSH keys with **Bash**.
 
-## Requirements
-### General
-- Allowed editors: vi, vim, emacs
-- All your files will be interpreted on Ubuntu 20.04 LTS
-- All your files should end with a new line
-- A README.md file, at the root of the folder of the project, is mandatory
-- All your Bash script files must be executable
-- You are not allowed to use awk
-- Your Bash script must pass Shellcheck (version 0.7.0) without any error
-- The first line of all your Bash scripts should be exactly #!/usr/bin/env bash
-- The second line of all your Bash scripts should be a comment explaining what is the script doing
+## Technologies
+* Scripts written in Bash 4.3.11(1)
+* Tested on Ubuntu 20.04 LTS
 
-## More Info
-### Shell Check
-<p>Shellcheck is a tool that will help you write proper Bash scripts. It will make recommendations on your syntax and semantics and provide advice on edge cases that you might not have thought about. <strong>Shellcheck</strong> is your friend! <strong>All your Bash scripts must pass</strong> Shellcheck <strong>without any error or you will not get any points on the task.</strong></p>
-<p>Shellcheck is available on the school’s computers. If you want to use it on your own computer, here is how to <a href="https://github.com/koalaman/shellcheck#installing" target="_blank">install it</a>.</p>
+## Files
+
+| Filename | Description |
+| -------- | ----------- |
+| `0-RSA_public_key.pub` | File that stores a RSA public key to access servers via SSH |
+| `1-for_holberton_school` | Displays `Holberton School` 10 times with a `for` loop |
+| `2-while_holberton_school` | Displays `Holberton School` 10 times with a `while` loop |
+| `3-until_holberton_school` | Displays `Holberton School` 10 times with an `until` loop |
+| `4-if_9_say_hi` | Displays `Holberton School` 10 times and displays `Hi` for the 9th iteration |
+| `5-4_bad_luck_8_is_your_chance` | Loops from 1 to 10 and displays `Holberton School`, except for 4th and 8th iteration which displays `bad luck` and `good luck`, respectively  |
+| `6-superstitious_numbers` | Displays numbers from 1 to 20 and displays `bad luck from China`, `bad luck from Japan` and `bad luck from Italy` for the 4th, 9th and 17th iteration, respectively |
+| `7-clock` | Displays the time for 12 hours and 59 minutes |
+| `8-for_ls` | Displays the content of the current directory in a list format |
+| `9-to_file_or_not_to_file` | Gives information about the `holbertonschool` file |
+| `10-fizzbuzz` | Displays the `fizzbuzz` sequence |
+| `100-read_and_cut` | Displays the content of the file `/etc/passwd` |
+| `101-tell_the_story_of_passwd` | Displays the content of the file `/etc/passwd` with an specific message |
+| `102-lets_parse_apache_logs` | Displays the visitor IP along with the HTTP status code from an Apache log file |
+| `103-dig_the-data` | Groups visitors by IP and HTTP status code and displays the occurrences, from the greatest to the lowest number |
