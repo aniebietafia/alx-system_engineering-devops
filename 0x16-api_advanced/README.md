@@ -45,4 +45,4 @@ Prototypes for functions written in this project:
   * Words with identical counts are sorted alphabetically.
   * Words with no matches are skipped.
   * Results are based on the number of times a keyword appears - ie.,
-  `java java java` counts as three separate instances of `java`.
+  `java java java` counts as three separate instances of the word `java`.
